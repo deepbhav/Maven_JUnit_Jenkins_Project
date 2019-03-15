@@ -1,4 +1,4 @@
-# Maven_JUnit_Integration
+# Maven_JUnit_Jenkins_Project
 This Project has some basic code &amp; tests in JUnit &amp; Java, Building with help of Maven.
 
 I have done the Following Steps :
