@@ -8,6 +8,7 @@ public class App
 {
 	public static int addMethod(int a,int b)
 	{
+		System.out.println("Addtion :");
 		return(a+b);
 	}
 	
